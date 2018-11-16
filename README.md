@@ -1,4 +1,4 @@
-Run before:
+Antes execute:
 
 # install django
 
